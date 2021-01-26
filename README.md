@@ -12,7 +12,7 @@ If you like my work and/or need some help, please take a look at my [sponsor](ht
 |Puppet|[voxpopuli-zabbix](https://github.com/voxpupuli/puppet-zabbix/)| | | | | |
 |Kubernetes/HELM|[helm-zabbix](https://github.com/dj-wasabi/helm-zabbix)| | | | | |
 
-|Ossec |  | |
-|---|---|---|
-|Ansible|[ossec-server](https://github.com/dj-wasabi/ansible-ossec-server)|[ossec-agent](https://github.com/dj-wasabi/ansible-ossec-agent)|
+|Ossec |  | | |Personal |  ||
+|---|---|---|-|---|---|---|
+|Ansible|[ossec-server](https://github.com/dj-wasabi/ansible-ossec-server)|[ossec-agent](https://github.com/dj-wasabi/ansible-ossec-agent)|||[dj-wasabi-release](https://github.com/dj-wasabi/dj-wasabi-release)|[pre-commit-hooks](https://github.com/dj-wasabi/pre-commit-hooks)|
 

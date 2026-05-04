@@ -1,10 +1,8 @@
 ### Hi, I'm Werner 👋
 
-I'm a **freelance DevOps / Platform Engineer** based in Utrecht, the Netherlands.
-I help teams run reliable, observable, automated infrastructure — mostly on
-**AWS, Kubernetes, Ansible, Terraform** and the **Zabbix / Wazuh / Prometheus**
-ecosystem. I also write, review tech books, and maintain a handful of
-open-source projects you may have used.
+I'm a **freelance DevOps / Platform Engineer** based in Utrecht, the Netherlands. 
+
+I help teams run reliable, observable, automated infrastructure — mostly on **AWS, Kubernetes, Ansible, Terraform** and the **Zabbix / Wazuh / Prometheus** ecosystem. I also write my own book, be a technical reviewer for tech books, and maintain a handful of open-source projects you may have used.
 
 🌐 **Website / CV:** [werner-dijkerman.nl](https://www.werner-dijkerman.nl/)
 ✍️ **Blog:** [medium.com/@wernertie](https://medium.com/@wernertie)
@@ -15,7 +13,7 @@ open-source projects you may have used.
 
 #### What I'm doing right now
 - Available for freelance DevOps / Platform Engineering work in NL & remote (EU).
-- Maintaining the Ansible **community.zabbix** collection and **helm-zabbix** chart.
+- Maintaining the `esops-go` tool for operating your Elasticsearch/Opensearch like how `kubectl` does.
 - Writing about observability, Kubernetes and IaC on Medium.
 
 #### Featured open source

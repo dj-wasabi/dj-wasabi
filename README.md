@@ -21,6 +21,7 @@ I help teams run reliable, observable, automated infrastructure — mostly on **
 | Project | What it does |
 |---|---|
 | [esops-go](https://github.com/esops-dev/esops-go) | Tool for Sre/OPS management of Elasticsearch/Opensearch clusters |
+| [Setting up a secure logging and metrics platform](https://github.com/dj-wasabi/setting-up-secure-logging-and-metrics-platform-guide) | Repository containing code for my e-Guide. |
 | [community.zabbix](https://github.com/ansible-collections/community.zabbix) | Official Ansible collection for Zabbix — co-maintainer |
 | [helm-zabbix](https://github.com/dj-wasabi/helm-zabbix) | Production-grade Helm chart for Zabbix on Kubernetes |
 | [ansible-zabbix-agent](https://github.com/dj-wasabi/ansible-zabbix-agent) | Most-installed Zabbix agent role on Ansible Galaxy |
